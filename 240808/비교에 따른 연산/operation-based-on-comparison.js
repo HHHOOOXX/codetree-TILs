@@ -8,5 +8,5 @@ if (a > b) {
     console.log(a*b);
 }
 else {
-    console.log(a/b);
+    console.log(parseInt(b/a));
 }
